@@ -1,0 +1,24 @@
+{
+  "name": "fcarbazar",
+  "version": "1.0.0",
+  "description": "Buy and Test Drive car Online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cars"
+  ],
+  "author": "kaph team",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.1",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.11",
+    "mongoose-slug-generator": "^1.0.4",
+    "multer": "^1.3.0",
+    "nodemon": "^1.17.2"
+  }
+}
